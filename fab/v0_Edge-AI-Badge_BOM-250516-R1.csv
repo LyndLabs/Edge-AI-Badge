@@ -1,0 +1,43 @@
+Reference,Value,DNP,Footprint,Datasheet,LCSC
+"C1,C40,C41",22uF,,Capacitor_SMD:C_0402_1005Metric,,C3845593
+"C2,C12,C18,C37",100nF,,Capacitor_SMD:C_0402_1005Metric,,C1525
+"C3,C4,C6,C21",0.1uF,,Capacitor_SMD:C_0402_1005Metric,,C1525
+"C5,C17,C19,C24,C25,C33",1uF,,Capacitor_SMD:C_0402_1005Metric,,"C14445,C3845593"
+"C9,C10",4.7uF,,Capacitor_SMD:C_0402_1005Metric,,C315248
+"C13,C27",10uF,,Capacitor_SMD:C_0402_1005Metric,,C315248
+C38,22pF,,Capacitor_SMD:C_0402_1005Metric,,C76960
+"D1,D3,D4,D6",D_Schottky,,Diode_SMD:D_SOD-523,,C917006
+D10,PRTR5V0U2X,,Package_TO_SOT_SMD:SOT-143,https://assets.nexperia.com/documents/data-sheet/PRTR5V0U2X.pdf,C5180302
+"D14,D15",VSMY14940,,Temporal:vsmy14940,,C511069
+"H1,H2,H3,H4",M2 x 1.5mm,,,,C5301775
+"H5,H6,H7,H8",M2x6mm,,,,C5301797
+J1,USB C 2.0,,Connector_USB:USB_C_Receptacle_Palconn_UTC16-G,https://www.usb.org/sites/default/files/documents/usb_type-c.zip,C2765186
+J3,JST PH,,Connector_JST:JST_PH_S2B-PH-SM4-TB_1x02-1MP_P2.00mm_Horizontal,,C295747
+"J5,J6",SM04B,,,,
+L5,2.2uh,,Inductor_SMD:L_Coilcraft_LPS3010,https://www.lcsc.com/datasheet/lcsc_datasheet_2410121211_YJYCOIN-YHNR4020-2R2M_C2926400.pdf,C2926400
+"LED1,LED2,LED3,LED4,LED5,LED6,LED7,LED8,LED9,LED10,LED11,LED12",APA102-2020,,LED_SMD:LED-APA102-2020,http://www.led-color.com/upload/201604/APA102-2020%20SMD%20LED.pdf,
+M1,Z3OC1T8219731,,,,
+"Q1,Q3",DMN2058U,,Package_TO_SOT_SMD:SOT-23,http://www.diodes.com/assets/Datasheets/DMN2058U.pdf,C461001
+Q2,MMBT3904,,Package_TO_SOT_SMD:SOT-23,https://www.onsemi.com/pdf/datasheet/pzt3904-d.pdf,C916374
+Q4,BSS138,,Package_TO_SOT_SMD:SOT-23,https://www.onsemi.com/pub/Collateral/BSS138-D.PDF,
+"R1,R2,R3,R4,R5,R12",0,,Resistor_SMD:R_0201_0603Metric,,C106228
+"R6,R16,R18,R21,R26,R28,R29,R30,R31,R32,R38,R45",10K,,Resistor_SMD:R_0402_1005Metric,,"C25767,C60490"
+"R7,R8",4.7K,,Resistor_SMD:R_0402_1005Metric,,C105871
+"R9,R10",5.1K,,Resistor_SMD:R_0402_1005Metric,,C25905
+"R11,R15,R24",150K,,Resistor_SMD:R_0402_1005Metric,,C93947
+R14,680K,,Resistor_SMD:R_0402_1005Metric,,C163456
+"R19,R20",1.8K,,Resistor_SMD:R_0402_1005Metric,,C203083
+R22,47K,,Resistor_SMD:R_0402_1005Metric,,C163456
+"R23,R25",100K,,Resistor_SMD:R_0402_1005Metric,,C60491
+R27,330,,Resistor_SMD:R_0402_1005Metric,,C112291
+"R36,R37,R41",24,,Resistor_SMD:R_0402_1005Metric,,C270625
+R39,150,,Resistor_SMD:R_0402_1005Metric,,C138054
+R40,10,,Resistor_SMD:R_0402_1005Metric,,C138066
+SW1,Reset,,,,C2762971
+"SW1, SW4,SW5,SW6,SW7,SW8,SW9,SW10,SW11,SW12",SW_Push,,,,C2762971
+U2,BQ24079RGT,,Package_DFN_QFN:VQFN-16-1EP_3x3mm_P0.5mm_EP1.6x1.6mm,http://www.ti.com/lit/ds/symlink/bq24079.pdf,C2876751
+U3,ESP32-S3-WROOM-1,,RF_Module:ESP32-S3-WROOM-1,https://www.espressif.com/sites/default/files/documentation/esp32-s3-wroom-1_wroom-1u_datasheet_en.pdf,C2913202
+U4,ST LIS2DH12TR,,Package_LGA:LGA-12_2x2mm_P0.5mm,https://www.st.com/resource/en/datasheet/lis2DE12.pdf,C110926
+U8,TSOP75338,,LyndLabs-Module:TSOP753,,C499550
+U10,SY8089,,Package_TO_SOT_SMD:SOT-23-5,https://lcsc.com/product-detail/DC-DC-Converters_Silergy_SY8088AAC_SY8088AAC_C79313.html,C79313
+Y1,32.768KHz,,Crystal:Crystal_SMD_3215-2Pin_3.2x1.5mm,,C97606

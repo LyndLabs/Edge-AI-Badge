@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "Edge-AI-Badge") (type "KiCad") (uri "/home/alex/Projects/Clients/Edge-AI-Foundation/Edge-AI-Badge.pretty") (options "") (descr ""))
+)
