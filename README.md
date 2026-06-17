@@ -1,10 +1,11 @@
 # Edge AI Foundation Badge
-The Edge AI Badge lets you plug-and-play with the latest vendor hardware at conference workshops and wirelessly connect with other attendees! Use the badge to explore the Edge AI curriculum, plug into sensors, and start building apps.
 
 ![](/assets/v0-edge-ai-badge.jpg)  
 
-- [Read the docs →](https://lyndlabs.github.io/edge-ai-badge-docs)
-- [Download or contribute to firmware](https://github.com/lyndlabs/edge-ai-badge-firmware).
+The Edge AI Badge lets you plug-and-play with the latest vendor hardware at conference workshops and wirelessly connect with other attendees! Use the badge to explore the Edge AI curriculum, plug into sensors, and start building apps.
+
+- 📄 [Read the docs →](https://lyndlabs.github.io/edge-ai-badge-docs)
+- 💻 [Download or contribute to firmware](https://github.com/lyndlabs/edge-ai-badge-firmware).
 
 ## Hardware 
 The badge is a modular PCB that allows you to customize your own face & backplates - the hardware platform is consistent at future conferences and makes it easy for attendees to design their own add-ons, or vendors that want to contribute hardware. 
