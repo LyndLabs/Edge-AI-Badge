@@ -23,7 +23,15 @@ It's built around the ESP32-S3, selected for its cryptographic core + secure boo
 ## Versions & Notes
 Versions bumped per batch release, revisions tracked for minor design changes per board - `main`, `face`, `back` tracked separately.
 
+### v1 
+- [x] Fixed USB + Power Path + XTAL issue 
+- [ ] Buttons on resistor ladder
+- [ ] Power button to MCU
+- [ ] Standoffs
+
 ### v0 - 26/06/08
 - Main boards + backplate only - released in green HASL
 - Wrong SMD standoff drilling size + CPL in production batch - used regular standoffs
 - CPL + BOM discrepancy, released for visibility but pls do not order
+- Known issue with USB charging
+- Known issue w. Deep Sleep (.1uF caps on xtal)

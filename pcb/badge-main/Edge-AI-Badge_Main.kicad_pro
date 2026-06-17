@@ -729,13 +729,13 @@
         "uuid": "27bf2ae2-5e1f-4b3d-9c07-cabb5ed2c678"
       }
     ],
-    "used_designators": "R33,R52",
+    "used_designators": "#PWR29,#PWR95,D1,R33,R52",
     "variants": []
   },
   "sheets": [
     [
       "27bf2ae2-5e1f-4b3d-9c07-cabb5ed2c678",
-      "Root"
+      "Edge-AI-Badge_Main"
     ]
   ],
   "text_variables": {},
