@@ -1,12 +1,15 @@
 # Edge AI Foundation Badge
-Read the [full documentation](https://lyndlabs.github.io/edge-ai-badge-docs) for hardware specs & design choices, and grab the latest [firmware](https://github.com/lyndlabs/edge-ai-badge-firmware).
-
-![](/assets/v0-edge-ai-badge.jpg)
-
 The Edge AI Badge lets you plug-and-play with the latest vendor hardware at conference workshops and wirelessly connect with other attendees! Use the badge to explore the Edge AI curriculum, plug into sensors, and start building apps.
-[Read the docs →](https://lyndlabs.github.io/edge-ai-badge-docs)
 
+![](/assets/v0-edge-ai-badge.jpg)  
+
+- [Read the docs →](https://lyndlabs.github.io/edge-ai-badge-docs)
+- [Download or contribute to firmware](https://github.com/lyndlabs/edge-ai-badge-firmware).
+
+## Hardware 
 The badge is a modular PCB that allows you to customize your own face & backplates - the hardware platform is consistent at future conferences and makes it easy for attendees to design their own add-ons, or vendors that want to contribute hardware. 
+
+It's built around the ESP32-S3, selected for its cryptographic core + secure boot, communication protocols (WiFi, BLE, ESP-NOW), infrared hardware, native USB, and ubiquitous support.
 
 ---
 
@@ -16,8 +19,10 @@ The badge is a modular PCB that allows you to customize your own face & backplat
 - **pcb**: KiCAD design files for `main`, `face`, `back`
 - **fab**: production-ready pcb + laser files
 
-## Versions
+## Versions & Notes
 Versions bumped per batch release, revisions tracked for minor design changes per board - `main`, `face`, `back` tracked separately.
 
-##### v0 - 26/06/08
-Main boards + backplate only - released in green HASL
+### v0 - 26/06/08
+- Main boards + backplate only - released in green HASL
+- Wrong SMD standoff drilling size + CPL in production batch - used regular standoffs
+- CPL + BOM discrepancy, released for visibility but pls do not order
