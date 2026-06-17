@@ -27,7 +27,9 @@ Versions bumped per batch release, revisions tracked for minor design changes pe
 - [x] Fixed USB + Power Path + XTAL issue 
 - [ ] Buttons on resistor ladder
 - [ ] Power button to MCU
-- [ ] Standoffs
+- [ ] Standoff drill
+- [ ] Interrupt to expansion
+- [ ] Diode on USB 
 
 ### v0 - 26/06/08
 - Main boards + backplate only - released in green HASL

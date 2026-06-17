@@ -63,7 +63,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "Edge-AI-Badge.kicad_prl",
+    "filename": "Edge-AI-Badge_Main.kicad_prl",
     "version": 5
   },
   "net_inspector_panel": {
